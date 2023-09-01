@@ -1,0 +1,207 @@
+{
+  "_format": "hh-zksolc-artifact-1",
+  "contractName": "Errors",
+  "sourceName": "contracts/Modules/lib/AddressLinkedList.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "ADDRESS_ALREADY_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ADDRESS_NOT_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ALERADY_INITIALIZED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CALLER_MUST_BE_ENTRYPOINT",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CALLER_MUST_BE_MODULE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CALLER_MUST_BE_SELF_OR_MODULE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "GUARDIAN_SIGNATURE_INVALID",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "HASH_ALREADY_APPROVED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "HASH_ALREADY_REJECTED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_ADDRESS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_DATA",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_GUARD_HOOK_DATA",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_KEY",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_LOGIC_ADDRESS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_SELECTOR",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_SIGNATURE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_SIGNTYPE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "INVALID_TIME_RANGE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MODULE_ADDRESS_EMPTY",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MODULE_EXECUTE_FROM_MODULE_RECURSIVE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MODULE_NOT_SUPPORT_INTERFACE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MODULE_SELECTORS_EMPTY",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MODULE_SELECTOR_UNAUTHORIZED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NOT_IMPLEMENTED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NOT_INITIALIZED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NO_OWNER",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_ADDRESS_EMPTY",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_HOOK_TYPE_ERROR",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_INIT_FAILED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_NOT_REGISTERED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_NOT_SUPPORT_INTERFACE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_POST_HOOK_FAILED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PLUGIN_PRE_HOOK_FAILED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "SAME_LOGIC_ADDRESS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "SELECTOR_ALREADY_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "SELECTOR_NOT_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "UNAUTHORIZED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "UNSUPPORTED_SIGNTYPE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "UPGRADE_FAILED",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x00000001012001900000000c0000613d0000008001000039000000400010043f0000000001000416000000000110004c0000000c0000c13d00000020010000390000010000100443000001200000044300000005010000410000000f0001042e000000000100001900000010000104300000000e000004320000000f0001042e00000010000104300000000000000000000000000000000000000000000000000000000200000000000000000000000000000040000001000000000000000000af4b43119f2a2f076dcf281b2d717246f9d0672885de907289175c07774d1a96",
+  "deployedBytecode": "0x00000001012001900000000c0000613d0000008001000039000000400010043f0000000001000416000000000110004c0000000c0000c13d00000020010000390000010000100443000001200000044300000005010000410000000f0001042e000000000100001900000010000104300000000e000004320000000f0001042e00000010000104300000000000000000000000000000000000000000000000000000000200000000000000000000000000000040000001000000000000000000af4b43119f2a2f076dcf281b2d717246f9d0672885de907289175c07774d1a96",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "factoryDeps": {}
+}
