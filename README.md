@@ -17,7 +17,7 @@ Compile contracts with `yarn hardhat compile`
 To run the scripts to deploy and execute the contracts, use the `zksync-deploy` command:
 
 - `yarn hardhat deploy-zksync --script deploy-deployAll.ts`: deploys the factory contract
-- `yarn hardhat deploy-zksync --script deploy-deloyAll.ts`: deploys a multisig wallet and executes a transaction.
+- `yarn hardhat deploy-zksync --script deploy-deployAll.ts`: deploys a multisig wallet and executes a transaction.
 
 ## Support
 
